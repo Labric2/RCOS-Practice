@@ -1,2 +1,4 @@
-# RCOS-Practice
-Git Practice
+Colin Labrie
+![Palmer](palmer.webp)
+Graduation year: 2028
+
